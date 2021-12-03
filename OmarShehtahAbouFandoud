@@ -1,0 +1,7 @@
+1- mkdir task 
+2- cd task
+3- git clone git@github.com:FatmaKhaled/devops3month.git
+4- touch OmarShehtahAbouFandou 
+5- git add .
+6- git commit -m "uplode my task"
+
