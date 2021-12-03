@@ -1,0 +1,7 @@
+1- git clone https://github.com/FatmaKhaled/devops3month.git
+2- touch file 
+3- git status to know project status
+4- git add AminKhalaf
+5- git commit -m "comment here"
+6- git push origin main
+
